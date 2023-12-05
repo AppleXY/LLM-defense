@@ -8,9 +8,7 @@ import pdb
 import logging
 import time
 import tiktoken
-
-
-openai.api_key = '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'
+openai.api_key = your_key
 # file = '/Users/xinyuan/Documents/LLM/prompts_curated.json'
 file = '/Users/xinyuan/Documents/LLM/prompts_synthetic.json'
 
